@@ -24,7 +24,7 @@ Visitors
 >2019 - 2021 | Seoul, GangNamgu
 
 ## ⚡ Before Experience
->💬Introduction about HAEIN LEE [활동이력][!intro](https://blog.theofto.com)
+>💬Introduction about HAEIN LEE [활동이력](https://blog.theofto.com)
 
 
 - 💬 Ask me about: 
