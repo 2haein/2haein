@@ -20,8 +20,8 @@ Visitors
 
 ## ⚡Experience
 
-Web Frontend Developer / TheCommerce https://www.onesell.co.kr
-2019 - 2021 | Seoul, GangNamgu
+>Web Frontend Developer / E-Commerce
+>2019 - 2021 | Seoul, GangNamgu
 
 
 
