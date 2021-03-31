@@ -20,8 +20,8 @@ Visitors
 
 ## ⚡Experience
 
->Web Frontend Developer / E-Commerce  
->2019 - 2021 | Seoul, GangNamgu
+>Web Frontend Developer / E-Commerce Company 
+>2019 - 2021 | Seoul Gangnam-gu, Yeoksam-ro
 
 ## ⚡ Before Experience
 >💬Introduction about HAEIN LEE [활동이력](https://blog.theofto.com)
