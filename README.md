@@ -23,6 +23,8 @@ Visitors
 >Web Frontend Developer / E-Commerce  
 >2019 - 2021 | Seoul, GangNamgu
 
+## ⚡ Before Experience
+>💬Introduction about HAEIN LEE [활동이력][intro]:https://blog.theofto.com
 
 
 - 💬 Ask me about: 
