@@ -26,6 +26,14 @@ Visitors
 ## ⚡ Before Experience
 >💬Introduction about HAEIN LEE [활동이력](https://blog.theofto.com)
 
+## ⚡ Education
+>Computer Science / CAU
+
+## ⚡ Leisure App
+> App Idle Game(https://play.google.com/store/apps/details?id=com.henistd.idle)  
+> A game app made for fun. Available on PlayStore.  
+> App Puzzle Game(https://play.google.com/store/apps/details?id=com.henistd.revision2048)  
+> A game app made for brain improvement development. Available on PlayStore.
 
 - 💬 Ask me about: 
 - 📫 How to reach me: ...
