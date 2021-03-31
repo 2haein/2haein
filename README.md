@@ -21,7 +21,7 @@ Visitors
 ## ⚡Experience
 
 >Web Frontend Developer / E-Commerce
->2019 - 2021 | Seoul, GangNamgu
+- 2019 - 2021 | Seoul, GangNamgu
 
 
 
