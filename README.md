@@ -27,7 +27,7 @@ Visitors
 >💬Introduction about HAEIN LEE [활동이력](https://blog.theofto.com)
 
 ## ⚡ Education
->Computer Science / CAU
+>Computer Science and Engineering in university
 
 ## ⚡ Leisure App
 > App [Idle Game](https://play.google.com/store/apps/details?id=com.henistd.idle)  
