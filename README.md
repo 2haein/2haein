@@ -36,6 +36,6 @@ Visitors
 > App [Puzzle Game](https://play.google.com/store/apps/details?id=com.henistd.revision2048)  
 > A game app made for brain improvement development. Available on PlayStore.
 
-- 💬 Ask me about: 
+- 💬 Ask me about: [기술사이트](https://theofto.com)
 - 📫 How to reach me: ...
 
