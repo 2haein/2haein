@@ -30,9 +30,9 @@ Visitors
 >Computer Science / CAU
 
 ## ⚡ Leisure App
-> App Idle Game(https://play.google.com/store/apps/details?id=com.henistd.idle)  
+> App [Idle Game](https://play.google.com/store/apps/details?id=com.henistd.idle)  
 > A game app made for fun. Available on PlayStore.  
-> App Puzzle Game(https://play.google.com/store/apps/details?id=com.henistd.revision2048)  
+> App [Puzzle Game](https://play.google.com/store/apps/details?id=com.henistd.revision2048)  
 > A game app made for brain improvement development. Available on PlayStore.
 
 - 💬 Ask me about: 
