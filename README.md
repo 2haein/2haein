@@ -14,7 +14,7 @@ Visitors
 
 - [Languages] - JavaScript, SCSS, HTML, Java
 - [Web FrontEnd] - React, Vue, WebPack, Babel, Jquery
-- [Web BackEnd] - node.js, SpringBoot
+- [Web BackEnd] - node.js(Express), SpringBoot
 - [Basic] - AWS EC2/S3/Route53, Google FireBase
 
 
