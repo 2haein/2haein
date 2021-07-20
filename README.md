@@ -16,7 +16,7 @@
 >2019 - 2021 | Seoul Gangnam-gu, Yeoksam-ro
 
 ## ⚡ Before Experience
->💬Introduction about HAEIN LEE [활동이력](https://blog.theofto.com)
+>💬Introduction about HAEIN LEE [활동이력](https://resume.thekpop.net)
 
 ## ⚡ Education
 >Computer Science and Engineering in university
@@ -27,7 +27,7 @@
 > App [Puzzle Game](https://play.google.com/store/apps/details?id=com.henistd.revision2048)  
 > A game app made for brain improvement development. Available on PlayStore.
 
-- 💬 Ask me about: [기술 사이트](https://theofto.com)
+- 💬 Ask me about: [기술 사이트](https://blog.thekpop.net)
 - 📫 How to reach me: ...  
 
 Visitors  
