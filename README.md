@@ -16,7 +16,7 @@
 >2019 - 2021 | Seoul Gangnam-gu, Yeoksam-ro
 
 ## ⚡ Before Experience
->💬Introduction about HAEIN LEE [활동이력](https://resume.thekpop.net){: target="_blank"}
+>💬Introduction about HAEIN LEE [활동이력](https://resume.thekpop.net){:target="_blank"}
 
 ## ⚡ Education
 >Computer Science and Engineering in university
