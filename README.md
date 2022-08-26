@@ -15,16 +15,13 @@
 >Web Frontend Developer / E-Commerce Company  
 >2019 - 2021 | Seoul Gangnam-gu, Yeoksam-ro
 
-## ⚡ Before Experience
->💬Introduction about HAEIN LEE [활동이력](https://resume.developier.com)
 ## ⚡ Education
->Computer Science and Engineering in university
+>Computer Science and Engineering in CAU university
 
 ## ⚡ Leisure App
-> App [Idle Game](https://play.google.com/store/apps/details?id=com.henistd.idle)  
+> App [Idle Game](https://play.google.com/store/apps/details?id=com.HENI.RunandJump)  
 > A game app made for fun. Available on PlayStore.  
-> App [Puzzle Game](https://play.google.com/store/apps/details?id=com.henistd.revision2048)  
-> A game app made for brain improvement development. Available on PlayStore.
+
 
 - 💬 Ask me about: [기술 사이트](https://blog.developier.com)
 - 📫 How to reach me: ...  
