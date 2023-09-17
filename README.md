@@ -1,5 +1,4 @@
 # 이해인
-![Haein's GitHub stats](https://github-readme-stats.vercel.app/api?username=2haein&hide=prs,stars,issues,contribs&count_private=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2haein&langs_count=4&layout=compact)
 
