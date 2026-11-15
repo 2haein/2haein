@@ -8,7 +8,7 @@
 
 ## ⚡Experience
 
->Web Frontend Developer / E-Commerce Company  
+>Full Stack & Web Service Developer / E-Commerce Company  
 >2019 - 2021 | Seoul Gangnam-gu, Yeoksam-ro
 
 ## ⚡ Education
