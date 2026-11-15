@@ -1,10 +1,7 @@
-# 이해인
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2haein&langs_count=4&layout=compact)
 
 ## ⚡Tech (Skills)
 
-- [Languages] - JavaScript, SCSS, HTML, Java
+- [Languages] - Java, Python, JavaScript, C++, Swift
 - [Web FrontEnd] - React, Vue, WebPack, Babel, Jquery
 - [Web BackEnd] - node.js(Express), SpringBoot
 - [Basic] - AWS EC2/S3/Route53, Google FireBase, MongoDB, PostgreSQL
